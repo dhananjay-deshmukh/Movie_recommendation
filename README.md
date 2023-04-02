@@ -11,6 +11,11 @@ The metric used to build the recommendation system is "Cosine similarity".
 
 This project has been provided with an interactive demo using streamlit.
 
+## Demo Screenshot <br>
+
+![Screenshot 2023-04-02 232341](https://user-images.githubusercontent.com/112422798/229371787-abc22c25-99d6-478b-a11a-3423c7d31903.png)
+
+
 
 
 ## Run Locally
